@@ -4,4 +4,9 @@
 Can Run locally with http-server
 
 Demo
-[I'm an inline-style link](https://www.google.com)
+[https://jjwallace.github.io/Pink-JellyFish/](https://jjwallace.github.io/Pink-JellyFish/)
+
+Pink JellyFish Sprites © JJWALLACE Copyright 2018
+No reproduction allowed
+
+Code MIT open source
