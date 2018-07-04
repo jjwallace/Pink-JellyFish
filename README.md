@@ -6,18 +6,15 @@
 Demo
 [https://jjwallace.github.io/Pink-JellyFish/](https://jjwallace.github.io/Pink-JellyFish/)
 
-![JELLYFISH PICTURE](![alt text](https://raw.githubusercontent.com/jjwallace/Pink-JellyFish/master/assets/screenshot/jellyfish.png))
+![alt text](https://raw.githubusercontent.com/jjwallace/Pink-JellyFish/master/assets/screenshot/jellyfish.png)
 
 Can Run locally with simple server NPM http-server
 
-Installation via npm:
+Installation Simple Server via npm:
 
-* npm install http-server -g *
+> npm install http-server -g 
 
 [More Info on NPM Simple Server](https://www.npmjs.com/package/http-server)
-
-
-
 
 Pink JellyFish Sprites © JJWALLACE Copyright 2018
 No reproduction allowed
