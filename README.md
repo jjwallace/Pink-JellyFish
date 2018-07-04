@@ -17,6 +17,6 @@ Installation Simple Server via npm:
 [More Info on NPM Simple Server](https://www.npmjs.com/package/http-server)
 
 Pink JellyFish Sprites © JJWALLACE Copyright 2018
-No reproduction allowed
+No reproduction / use allowed.
 
-Code MIT open source
+Code is licensed under MIT. (open source)
