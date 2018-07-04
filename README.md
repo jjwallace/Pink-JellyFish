@@ -6,7 +6,7 @@ Can Run locally with http-server
 Demo
 [https://jjwallace.github.io/Pink-JellyFish/](https://jjwallace.github.io/Pink-JellyFish/)
 
-![alt text](https://jjwallace.github.io/Pink-JellyFish/assets/screenshot/jellyfish.png)
+![JELLYFISH PICTURE](![alt text](https://raw.githubusercontent.com/jjwallace/Pink-JellyFish/master/assets/screenshot/jellyfish.png))
 
 Pink JellyFish Sprites © JJWALLACE Copyright 2018
 No reproduction allowed
