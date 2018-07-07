@@ -32,13 +32,15 @@ JellyFish = function (objectScope) {
 	this.size = jellySize/100;
 	
 	function getRandom(min, max){
-		return Math.random() * (max - min) + min;
+		return Math.floor(Math.random() * (max - min) + min);
 	}
 	
 	Phaser.Sprite.call(this, game, getRandom(0, game.world.width), getRandom(0, game.world.height), 'spJellyFish');
 	this.animations.add('default');   
 	this.animations.play('default', 30, true);
-	this.animations.frame = getRandom(1, 20);
+	this.animations.getAnimation('default').frame = getRandom(2, this.animations.getAnimation('default').frameTotal);
+	
+	
 	this.anchor.set(0.5,0.5);
 	this.scale.setTo(this.size);
 	this.angle = getRandom(-180, 180);
